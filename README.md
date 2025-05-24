@@ -25,3 +25,4 @@ Me gusta aprender tecnologías actuales y trabajar en proyectos donde pueda crec
 ---
 
 📌 *Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades, desafíos y colaboración en proyectos tech.*
+https://www.canva.com/design/DAGV9WLTw5g/Tv01nVw3oOstRGKrw89pGA/view
