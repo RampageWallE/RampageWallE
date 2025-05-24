@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Piero Valentino Noa Chahuayo
 
-<!--
-**RampageWallE/RampageWallE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy egresado técnico en desarrollo de software, con interés en el desarrollo backend, arquitecturas modernas y metodologías ágiles.  
+Me gusta aprender tecnologías actuales y colaborar en proyectos donde pueda seguir creciendo profesionalmente.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que domino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes y frameworks: `.NET`, `Node.js`, `React`
+- Bases de datos: `MySQL`
+- Herramientas y control de versiones: `Git`, `Nginx`, `DevExpress`
+- Metodologías: `SCRUM`, desarrollo ágil
+- Otros: diseño de servicios `RESTful`, despliegues automatizados y trabajo en entornos DevOps
+
+## 🔗 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuarioaquí)
+
+---
+
+📌 *Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades y colaboraciones.*
