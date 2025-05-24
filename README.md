@@ -22,7 +22,10 @@ Me gusta aprender tecnologías actuales y trabajar en proyectos donde pueda crec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-noa-chahuayo-aab5a0366)
 
+### 💼 Tarjeta de Presentación
+
+📄 **[Carta de presentación – Piero Valentino Noa Chahuayo](https://www.canva.com/design/DAGV9WLTw5g/bTvPtKt4SKgJQNizLh0p6A/view?utm_content=DAGV9WLTw5g&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)**  
+Una breve introducción sobre mi perfil profesional y mis aspiraciones en el mundo del desarrollo de software.
 ---
 
 📌 *Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades, desafíos y colaboración en proyectos tech.*
-https://www.canva.com/design/DAGV9WLTw5g/Tv01nVw3oOstRGKrw89pGA/view
